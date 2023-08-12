@@ -5,5 +5,6 @@ class Solution:
             if i%3==0 or i%5==0 or i%7==0:
                 sum+=i
         return sum
+    
 
 # https://leetcode.com/problems/sum-multiples/description/
