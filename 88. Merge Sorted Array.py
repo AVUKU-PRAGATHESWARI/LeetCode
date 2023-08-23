@@ -5,4 +5,4 @@ class Solution(object):
         elif n <1:
             nums1[:] = nums1[:m]
         else:
-            nums1[:] = sorted(nums1[:m] + nums2[:n])
+            nums1[:] = sorted(nums1[:m] + nums2[:n]) 
