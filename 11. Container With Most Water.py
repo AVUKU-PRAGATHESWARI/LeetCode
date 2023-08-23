@@ -13,3 +13,4 @@ class Solution:
             else:
                 right=right-1
         return maxArea
+ 
