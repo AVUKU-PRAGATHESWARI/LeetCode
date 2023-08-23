@@ -10,4 +10,4 @@ class Solution(object):
         for score, age in score_age:
             dp[age] = score + max(dp[:age+1])
         return max(dp)
-        
+         
