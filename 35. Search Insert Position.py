@@ -8,4 +8,4 @@ class Solution(object):
                 index=index+1
             else:
                 break
-        return index
+        return index 
