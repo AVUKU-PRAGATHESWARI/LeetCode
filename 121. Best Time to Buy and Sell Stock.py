@@ -7,4 +7,4 @@ class Solution:
                 profit=max(profit,sell-buy)
             else:
                 buy=sell
-        return profit
+        return profit 
