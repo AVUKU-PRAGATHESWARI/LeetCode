@@ -5,4 +5,4 @@ class Solution:
         nums=list(set(nums))
         nums.sort()
         return nums[-3]
-        
+         
