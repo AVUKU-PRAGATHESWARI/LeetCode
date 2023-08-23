@@ -10,3 +10,4 @@ class Solution:
         else:
             result = total[length//2]
         return round(result,5)
+ 
