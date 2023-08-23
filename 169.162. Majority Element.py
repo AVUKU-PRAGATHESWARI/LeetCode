@@ -8,4 +8,4 @@ class Solution(object):
                 hashtable[num]+=1
         for num in nums:
             if hashtable[num]>len(nums)/2:
-                return num
+                return num 
