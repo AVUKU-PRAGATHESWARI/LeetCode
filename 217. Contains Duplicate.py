@@ -3,4 +3,4 @@ class Solution:
         if len(nums)==len(list(set(nums))):
             return False
         else:
-            return True
+            return True 
