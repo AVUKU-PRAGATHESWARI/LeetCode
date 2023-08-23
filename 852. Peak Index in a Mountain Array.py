@@ -4,4 +4,4 @@ class Solution(object):
         :type arr: List[int]
         :rtype: int
         """
-        return arr.index(max(arr))
+        return arr.index(max(arr)) 
