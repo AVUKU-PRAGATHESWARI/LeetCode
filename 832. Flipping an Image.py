@@ -14,3 +14,4 @@ class Solution(object):
                 else:
                     new[i][j]=0
         return new
+ 
