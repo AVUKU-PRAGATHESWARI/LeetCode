@@ -8,4 +8,4 @@ class Solution(object):
                 digits[idx] = 0
         if digits[0] == 0:
             digits.insert(0, 1)
-        return digits
+        return digits 
