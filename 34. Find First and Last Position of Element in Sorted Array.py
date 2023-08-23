@@ -11,4 +11,4 @@ class Solution:
             if nums[j]==target:
                 result.append(j)
                 break
-        return result
+        return result 
