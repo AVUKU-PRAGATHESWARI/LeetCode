@@ -4,4 +4,4 @@ class Solution(object):
             return 0
         
         while val in nums:
-            nums.remove(val) 
+            nums.remove(val)  
