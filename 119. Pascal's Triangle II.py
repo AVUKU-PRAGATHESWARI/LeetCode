@@ -18,3 +18,4 @@ class Solution(object):
                 index1.append(1)
                 index=index1
         return index
+ 
