@@ -4,4 +4,4 @@ class Solution:
         nums.clear()
         nums.extend(num)
         nums.sort()
-        return len(nums)
+        return len(nums) 
