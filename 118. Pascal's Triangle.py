@@ -15,4 +15,4 @@ class Solution(object):
                 index2.append(1)
                 index=index2
             result.append(index)
-        return result
+        return result 
