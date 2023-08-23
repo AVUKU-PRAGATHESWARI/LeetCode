@@ -4,4 +4,4 @@ class Solution:
         for i in nums:
             square.append(i**2)
         square.sort()
-        return square
+        return square 
