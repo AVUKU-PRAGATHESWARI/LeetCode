@@ -6,4 +6,4 @@ class Solution(object):
         """
         first = len(nums)*(len(nums)+1)//2
         second = sum(nums)
-        return first-second
+        return first-second 
