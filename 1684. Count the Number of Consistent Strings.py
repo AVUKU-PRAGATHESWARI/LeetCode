@@ -8,4 +8,4 @@ class Solution:
                     count += 1
             if count == len(i):
                 result += 1
-        return result 
+        return result  
