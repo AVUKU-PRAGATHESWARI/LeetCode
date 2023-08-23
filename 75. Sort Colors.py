@@ -18,4 +18,4 @@ class Solution(object):
                 swap(i,r)
                 r=r-1
                 i-=1
-            i+=1
+            i+=1 
