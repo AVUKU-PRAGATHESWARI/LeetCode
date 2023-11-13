@@ -1,0 +1,8 @@
+class Solution:
+    def findGCD(self, nums: List[int]) -> int:
+        maximum = max(nums)
+        minimum = min(nums)
+        for i in range(minimum,0,-1):
+            if maximum%i==0 and minimum%i==0:
+                return i
+        
